@@ -1,6 +1,6 @@
 # Farcaster Frames
 
-Welcome to **Farcaster Frames** – your go-to hub for crafting interactive and dynamic frames on Farcaster.
+Welcome to **Farcaster Frames** – a go-to hub for crafting interactive and dynamic frames on Farcaster.
 
 ## What is Farcaster Frames?
 
