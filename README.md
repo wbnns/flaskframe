@@ -1,6 +1,6 @@
 # Farcaster Frames
 
-Welcome to **Farcaster Frames** – a go-to hub for crafting interactive and dynamic frames on Farcaster.
+Welcome to **Farcaster Frames** – a go-to hub for crafting interactive and dynamic frames on Farcaster full of examples from the community.
 
 ## What is Farcaster Frames?
 
@@ -21,8 +21,3 @@ Farcaster Frames offers a rich collection of customizable templates to enhance y
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
