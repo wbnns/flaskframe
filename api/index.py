@@ -3,6 +3,10 @@ import requests
 
 app = Flask(__name__)
 
+@app.route('/')
+def home():
+    return 'Hello World!'
+
 @app.route('/poll', methods=['GET'])
 def poll_frame():
     # HTML content with Open Graph tags for the poll frame
