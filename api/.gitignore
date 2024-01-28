@@ -1,0 +1,13 @@
+.vercel
+*.log
+*.pyc
+__pycache__
+
+# Environmentsx
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
